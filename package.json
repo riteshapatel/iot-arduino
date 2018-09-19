@@ -1,0 +1,30 @@
+{
+  "name": "iot-arduino",
+  "version": "1.0.0",
+  "description": "An IoT project with Raspberry Pi 3, Arduino and Johnny-five",
+  "main": "blink.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riteshapatel/iot-arduino.git"
+  },
+  "keywords": [
+    "iot",
+    "aws",
+    "raspberry",
+    "pi",
+    "arduino",
+    "johnny-five"
+  ],
+  "author": "ritesh.patel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riteshapatel/iot-arduino/issues"
+  },
+  "homepage": "https://github.com/riteshapatel/iot-arduino#readme",
+  "dependencies": {
+    "johnny-five": "^1.0.0"
+  }
+}
